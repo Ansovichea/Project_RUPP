@@ -1,0 +1,212 @@
+{
+    "courses": [{
+            "id": 1,
+            "title": "HTML Course for Beginners",
+            "description": "Learn the fundamentals of CSS for web development.",
+            "videoUrl": "https://www.youtube.com/embed/1PnVor36_40",
+            "reviews": [{
+                    "name": "John Doe",
+                    "comment": "Great course! Very informative.",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "comment": "Excellent content and explanations.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Front End Development-CSS",
+            "description": "Master the basics of HTML for web development.",
+            "videoUrl": "https://www.youtube.com/embed/1PnVor36_40",
+            "reviews": [{
+                    "name": "Alice Johnson",
+                    "comment": "Perfect for beginners!",
+                    "rating": 5
+                },
+                {
+                    "name": "Bob Williams",
+                    "comment": "Clear and concise explanations.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Introduction to JavaScript",
+            "description": "Get started with JavaScript programming.",
+            "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+            "reviews": [{
+                    "name": "Charlie Brown",
+                    "comment": "Very helpful introduction to JavaScript.",
+                    "rating": 4
+                },
+                {
+                    "name": "Lucy Liu",
+                    "comment": "Well structured and easy to follow.",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Python Programming",
+            "description": "Learn Python from scratch.",
+            "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+            "reviews": [{
+                    "name": "Michael Scott",
+                    "comment": "Great course for beginners.",
+                    "rating": 5
+                },
+                {
+                    "name": "Pam Beesly",
+                    "comment": "Very informative and easy to understand.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "SQL for Data Science",
+            "description": "Understand the basics of databases and SQL.",
+            "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+            "reviews": [{
+                    "name": "Jim Halpert",
+                    "comment": "A must for beginners in databases.",
+                    "rating": 4
+                },
+                {
+                    "name": "Dwight Schrute",
+                    "comment": "Well explained and thorough.",
+                    "rating": 5
+                },
+                {
+                    "name": "nak",
+                    "comment": "Well explained and thorough.",
+                    "rating": 3
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "ChatGPT for Beginners",
+            "description": "Explore the basics of machine learning.",
+            "videoUrl": "https://www.youtube.com/embed/GwIo3gDZCVQ",
+            "reviews": [{
+                    "name": "Angela Martin",
+                    "comment": "Excellent introduction to machine learning.",
+                    "rating": 4
+                },
+                {
+                    "name": "Oscar Martinez",
+                    "comment": "Very clear and easy to follow.",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "AWS for Beginners",
+            "description": "Learn the fundamentals of data science.",
+            "videoUrl": "https://www.youtube.com/embed/ua-CiDNNj30",
+            "reviews": [{
+                    "name": "Ryan Howard",
+                    "comment": "Great for those starting in data science.",
+                    "rating": 5
+                },
+                {
+                    "name": "Kelly Kapoor",
+                    "comment": "Interesting content and well explained.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Microsoft Azure Essentials",
+            "description": "Learn how to build web applications using React.",
+            "videoUrl": "https://www.youtube.com/embed/Ke90Tje7VS0",
+            "reviews": [{
+                    "name": "Kevin Malone",
+                    "comment": "Very informative and helpful.",
+                    "rating": 5
+                },
+                {
+                    "name": "Meredith Palmer",
+                    "comment": "Great course, learned a lot.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Introduction to MS Excel",
+            "description": "Get started with Java programming.",
+            "videoUrl": "https://www.youtube.com/embed/grEKMHGYyns",
+            "reviews": [{
+                    "name": "Stanley Hudson",
+                    "comment": "A good introduction to Java.",
+                    "rating": 4
+                },
+                {
+                    "name": "Phyllis Vance",
+                    "comment": "Easy to follow and understand.",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Statistics For Data Science",
+            "description": "Learn PHP for server-side web development.",
+            "videoUrl": "https://www.youtube.com/embed/O5aP-Jtq-7E",
+            "reviews": [{
+                    "name": "Toby Flenderson",
+                    "comment": "Great course for learning PHP.",
+                    "rating": 5
+                },
+                {
+                    "name": "Creed Bratton",
+                    "comment": "Very detailed and informative.",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Java Programming",
+            "description": "Understand the basics of cybersecurity.",
+            "videoUrl": "https://www.youtube.com/embed/inWWhr5tnEA",
+            "reviews": [{
+                    "name": "Darryl Philbin",
+                    "comment": "Very helpful for understanding cybersecurity.",
+                    "rating": 4
+                },
+                {
+                    "name": "Erin Hannon",
+                    "comment": "Well organized and easy to follow.",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "C for Beginners",
+            "description": "Deep dive into advanced JavaScript concepts.",
+            "videoUrl": "https://www.youtube.com/embed/6oFvqLfRnsw",
+            "reviews": [{
+                    "name": "Holly Flax",
+                    "comment": "A great course for those looking to advance their JavaScript skills.",
+                    "rating": 5
+                },
+                {
+                    "name": "David Wallace",
+                    "comment": "Comprehensive and well explained.",
+                    "rating": 4
+                }
+            ]
+        }
+    ]
+}
